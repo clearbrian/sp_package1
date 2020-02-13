@@ -6,7 +6,7 @@
 //
 
 import Foundation
-class MyClass{    
+open class MyClass{
     func doSomething(){ 
         print("MyClass.doSomething() CALLED")
     }
